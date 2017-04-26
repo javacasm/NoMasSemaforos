@@ -1,5 +1,12 @@
 # No Más Semáforos
 
+## Malakabot 2017
+
+26 de Abril
+
+José Antonio Vacas @javacasm
+
+* * *
 ## ¿Cual es "Hola Mundo" que usas?
 
 ## ¿Por qué seguimos con Arduino?
