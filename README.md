@@ -9,9 +9,16 @@ ESP
 ## ¿Por qué seguimos con los leds?
 
 
-Ejemplo:[Guarda temperaturas en Google Sheet](http://www.whatimade.today/battery-operated-temperature-monitor-logging-data-directly-to-google-sheets-using-esp8266-12-ds18b20-and-deepsleep/)
+Ejemplo 1:[Guarda temperaturas en Google Sheet](http://www.whatimade.today/battery-operated-temperature-monitor-logging-data-directly-to-google-sheets-using-esp8266-12-ds18b20-and-deepsleep/)
+
+Ejemplo 2: [Máquina de vending](https://www.hackster.io/Sevenmojoe/snacks-vending-machine-powered-by-arduino-f03296)
 
 
+[Bomba con materiales reciclados](https://t.co/f5IgEteVE7)
+
+[Bomba 2](https://t.co/am3v8HZ4GR)
+
+[¿En primaria?](https://twitter.com/nacho1773/statuses/821663308965117956?tw_i=821663308965117956&tw_e=media&tw_p=archive)
 
 [Primera propuesta](https://plus.google.com/u/0/+JoseAntonioVacasMartinez/posts/bmBKHC8gCn7)
 Comentaba +Julián Caro Linares​ en una conversación en twitter con +Jokin Lacalle Usabiaga​ +Manuel Leobot​ +Jose Pujol Pérez​ +Alfredo Sanchez Sanchez​  y alguno más...  no hace mucho lo repetitivo y aburridos que eran los proyectos que siempre proponíamos en las clases de tecnología: robot siguelíneas, ascensor, casa domótica, ....
