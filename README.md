@@ -2,14 +2,20 @@
 
 ## ¿Cual es "Hola Mundo" que usas?
 
-## ¿Por qué seguimos con arduino?
+## ¿Por qué seguimos con Arduino?
 
 ESP
 FPGAs
 
-Hagamos PCBs con Kicad
+¡Hagamos PCBs con Kicad!
 
 ## ¿Por qué seguimos con los leds?
+
+
+[Video 1](https://youtu.be/IhMsvI3j6TM)
+
+[Vídeo 2](https://vimeo.com/207176939)
+
 
 ### Ejemplo 1:[Guarda temperaturas en Google Sheet](http://www.whatimade.today/battery-operated-temperature-monitor-logging-data-directly-to-google-sheets-using-esp8266-12-ds18b20-and-deepsleep/)
 
