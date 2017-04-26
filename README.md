@@ -1,5 +1,18 @@
 # No Más Semáforos
 
+
+## ¿Por qué seguimos con arduino?
+
+ESP
+
+
+## ¿Por qué seguimos con los leds?
+
+
+Ejemplo:[Guarda temperaturas en Google Sheet](http://www.whatimade.today/battery-operated-temperature-monitor-logging-data-directly-to-google-sheets-using-esp8266-12-ds18b20-and-deepsleep/)
+
+
+
 [Primera propuesta](https://plus.google.com/u/0/+JoseAntonioVacasMartinez/posts/bmBKHC8gCn7)
 Comentaba +Julián Caro Linares​ en una conversación en twitter con +Jokin Lacalle Usabiaga​ +Manuel Leobot​ +Jose Pujol Pérez​ +Alfredo Sanchez Sanchez​  y alguno más...  no hace mucho lo repetitivo y aburridos que eran los proyectos que siempre proponíamos en las clases de tecnología: robot siguelíneas, ascensor, casa domótica, ....
 
