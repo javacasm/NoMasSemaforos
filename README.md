@@ -1,26 +1,47 @@
 # No Más Semáforos
 
+## ¿Cual es "Hola Mundo" que usas?
 
 ## ¿Por qué seguimos con arduino?
 
 ESP
+FPGAs
 
+Hagamos PCBs con Kicad
 
 ## ¿Por qué seguimos con los leds?
 
+### Ejemplo 1:[Guarda temperaturas en Google Sheet](http://www.whatimade.today/battery-operated-temperature-monitor-logging-data-directly-to-google-sheets-using-esp8266-12-ds18b20-and-deepsleep/)
 
-Ejemplo 1:[Guarda temperaturas en Google Sheet](http://www.whatimade.today/battery-operated-temperature-monitor-logging-data-directly-to-google-sheets-using-esp8266-12-ds18b20-and-deepsleep/)
+### Ejemplo 2: [Máquina de vending](https://www.hackster.io/Sevenmojoe/snacks-vending-machine-powered-by-arduino-f03296)
 
-Ejemplo 2: [Máquina de vending](https://www.hackster.io/Sevenmojoe/snacks-vending-machine-powered-by-arduino-f03296)
+## Recicla
+* [Bomba con materiales reciclados](https://t.co/f5IgEteVE7)
 
+* [Bomba 2](https://t.co/am3v8HZ4GR)
 
-[Bomba con materiales reciclados](https://t.co/f5IgEteVE7)
-
-[Bomba 2](https://t.co/am3v8HZ4GR)
+## ¿Por qué esperar hasta que tienen 15 años?
 
 [¿En primaria?](https://twitter.com/nacho1773/statuses/821663308965117956?tw_i=821663308965117956&tw_e=media&tw_p=archive)
 
+### Método
+
+#### Retos
+
+Siempre que te picas....
+
+#### Hitos
+
+Fases, poco a poco, les guías
+
+#### Trabaja en grupos
+
+#### Hazlo social, comparte, difunde, aprende
+
+## ¡Subamos un poco el nivel!
+
 [Primera propuesta](https://plus.google.com/u/0/+JoseAntonioVacasMartinez/posts/bmBKHC8gCn7)
+
 Comentaba +Julián Caro Linares​ en una conversación en twitter con +Jokin Lacalle Usabiaga​ +Manuel Leobot​ +Jose Pujol Pérez​ +Alfredo Sanchez Sanchez​  y alguno más...  no hace mucho lo repetitivo y aburridos que eran los proyectos que siempre proponíamos en las clases de tecnología: robot siguelíneas, ascensor, casa domótica, ....
 
 Por eso me he propuesto abrir un hilo para dar y recibir ideas y así poder afrontar proyectos más creativos.
@@ -37,11 +58,9 @@ Mi propuesta:
 * Medida de tiempo de reacción (reacción a luces, sonido, tacto,...)
 
 
-#ProyectosCreativos
-
+### ProyectosCreativos
 
 @ Alfredo Sánchez Sánchez
-
 
 Sensores+"Fibra optica"+actuadores
 
@@ -51,31 +70,42 @@ Egyptian numbers math found on #Thingiverse https://www.thingiverse.com/thing:18
 
 @ [Lorea Aldabaldetreku](https://plus.google.com/u/0/118231640568700532596)
 
-cruce semáforos, control de parking de coches, barrera de paso a nivel, puerta de tren accionada por  pulsadores, ...Me da la sensación que ando falta de ideas. Este curso les voy a hacer algunas propuestas más: mano mecatrónica, plataforma gira autobuses (como la de Elantxobe) y cabeza robótica que responde a estímulos externos.
-La idea de la "fibra óptica" me la apunto. Es muy interesante y diferente.
+Típicos:
+* Cruce semáforos,
+* Control de parking de coches,
+* Barrera de paso a nivel,
+* Puerta de tren accionada por  pulsadores,
+
+Pasamos a
+
+* Mano mecatrónica,
+* plataforma gira autobuses (como la de Elantxobe) y
+* cabeza robótica que responde a estímulos externos.
+
 
 [Juan Carlos López](https://plus.google.com/u/0/105589562368808543934)
 
-... algunos de los proyectos que hice con los de 4º el año pasado, además de los habituales por si os sirven de inspiración:
 - Alcoholímetro con lcd.
 - Música con disqueteras antiguas.
 - Piano con clips.
 - Sonómetro.
 
-Este año quiero hacer algún brazo robótico manejado con nunchuck, y que monten y programen tanto a otto, como el minikame, que son muy vistosos. Me apunto lo del espantapajaros (estaba pensando en la versión de Leroy de búho con sensor de presencia, movimiento y ruido) y lo de la fibra.
+* Brazo robótico manejado con nunchuck,
+* otto,
+* minikame, que son muy vistosos.
+* espantapajaros
 
-Con los de Bachillerato vamos a realizar una estación meteorológica que envíe datos en tiempo real a través de la wifi, a BB8 y una versión nueva de Zowi, a ver que tal queda.
+* Estación meteorológica que envíe datos en tiempo real a través de la wifi,
+* BB8
+* versión nueva de Zowi
 
-ww1.instructable.com - Click here to proceed. es una magnífica fuente de ideas para proyectos.
-Click here to proceed.
-ww1.instructable.com
 
 
 @ [Manuel Leobot](https://plus.google.com/u/0/115174194647742869558)
 
-Muy buenos proyectos.
-- Instrumento musical programable.
-Este verano pasado se hizo un taller de Arduino y creo que el proyecto tiene posibilidades para implicar a personas con discapacidad.
+
+* Instrumento musical programable.
+* Proyecto tiene posibilidades para implicar a personas con discapacidad.
 
 https://github.com/leobotmanuel/InstrumentoMusical
 
@@ -84,11 +114,11 @@ Otros proyectos a proponer
 - Proyectos con sensores biométricos.
 - Control de temperatura con PID.
 
-Me sumo a la idea de los proyectos de experimentación física e interactiva.
+*  proyectos de experimentación física e interactiva.
 
 @ [Jose Luis V](https://plus.google.com/u/0/108286620358695786905)
 
-Placa solar autodirigible con sensores de luz y que recoja datos de los ángulos en los que se encuentran los servos por horas y días.
+* Placa solar autodirigible con sensores de luz y que recoja datos de los ángulos en los que se encuentran los servos por horas y días.
 
 
 @ [Jokin Lacalle Usabiaga](https://plus.google.com/u/0/+JokinLacalleUsabiaga/posts/2VZUSmAYEEH?cfem=1)
@@ -159,13 +189,3 @@ I/O: sensores IR, minibombas de aire
 7- Que frene por favor, un amigo de un amigo  de un amigo de un Master de Robótica hizo un robot con motores pololu cuya única función era correr, el diseño fue excelente y el bicho corría MUCHO, tanto que al amigo  de  un amigo de un amigo descubrió demasiado tarde en que no había pensado en un sistema de frenos... una pared y plástico por los aires fue el deselance, cosas que pasan.
 
 8-Nada que decir, ese proyecto mola, añádele la pijadita de una APP móvil. Te dice cuantos refrescos de cada tipo te has echado y la cantidad de azucar que has bebido, cosas así.
-
-### Método
-
-
-#### Retos
-Siempre que te picas....
-#### Hitos
-Fases, poco a poco, les guías
-
-#### Hazlo social, comparte, difunde, aprende
