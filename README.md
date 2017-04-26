@@ -2,9 +2,9 @@
 
 ## Malakabot 2017
 
-26 de Abril
+## 26 de Abril
 
-José Antonio Vacas @javacasm
+## José Antonio Vacas @javacasm
 
 * * *
 ## ¿Cual es "Hola Mundo" que usas?
