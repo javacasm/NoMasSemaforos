@@ -117,7 +117,7 @@ Pasamos a
 
 * Brazo robótico manejado con nunchuck,
 * otto,
-* minikame, que son muy vistosos.
+* [minikame (de [Javier Isabel](https://twitter.com/JavierIH))](https://github.com/JavierIH/miniKame), que son muy vistosos.
 * espantapajaros
 
 * Estación meteorológica que envíe datos en tiempo real a través de la wifi,
