@@ -14,7 +14,7 @@
 
 ## ¿Sólo tenemos Arduino?
 
-ESP8266, NodeMCU: más baratos, más rápidos, wifi, compatibles.....
+[ESP8266](https://es.wikipedia.org/wiki/ESP8266), NodeMCU: más baratos, más rápidos, wifi, compatibles.....
 
 ### Ejemplo 1:[Guardamos temperaturas en Google Sheet](http://www.whatimade.today/battery-operated-temperature-monitor-logging-data-directly-to-google-sheets-using-esp8266-12-ds18b20-and-deepsleep/)
 
@@ -23,7 +23,7 @@ FPGAs: ¿el futuro o el presente?
 
 ## ¿No existe la placa perfecta?
 
-#### ¡Hagamos PCBs con Kicad!
+#### ¡Hagamos PCBs con [Kicad](https://github.com/javacasm/CharlaKicad)!
 
 ## ¿Seguimos con los leds?
 
