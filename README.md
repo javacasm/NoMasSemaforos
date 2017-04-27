@@ -7,33 +7,43 @@
 ## José Antonio Vacas @javacasm
 
 * * *
+
 ## ¿Cual es "Hola Mundo" que usas?
 
-## ¿Por qué seguimos con Arduino?
+## ¿Sólo tenemos Arduino?
 
-ESP
-FPGAs
+ESP8266, NodeMCU: más baratos, más rápidos, wifi, compatibles.....
 
-¡Hagamos PCBs con Kicad!
-
-## ¿Por qué seguimos con los leds?
+### Ejemplo 1:[Guardamos temperaturas en Google Sheet](http://www.whatimade.today/battery-operated-temperature-monitor-logging-data-directly-to-google-sheets-using-esp8266-12-ds18b20-and-deepsleep/)
 
 
-[Video 1](https://youtu.be/IhMsvI3j6TM)
+FPGAs: ¿el futuro o el presente?
 
-[Vídeo 2](https://vimeo.com/207176939)
+## ¿No existe la placa perfecta?
 
+#### ¡Hagamos PCBs con Kicad!
 
-### Ejemplo 1:[Guarda temperaturas en Google Sheet](http://www.whatimade.today/battery-operated-temperature-monitor-logging-data-directly-to-google-sheets-using-esp8266-12-ds18b20-and-deepsleep/)
+## ¿Seguimos con los leds?
 
-### Ejemplo 2: [Máquina de vending](https://www.hackster.io/Sevenmojoe/snacks-vending-machine-powered-by-arduino-f03296)
+[Video leds](https://youtu.be/IhMsvI3j6TM)
+
+y ya que estamos con artistas....
+
+[Vídeo 1](https://vimeo.com/207176939)
+
+## Diseña en 3D
+
+## Conecta con el móvil: AppInventor
+
 
 ## Recicla
 * [Bomba con materiales reciclados](https://t.co/f5IgEteVE7)
 
 * [Bomba 2](https://t.co/am3v8HZ4GR)
 
-## ¿Por qué esperar hasta que tienen 15 años?
+## Reusa, libera tus diseños
+
+## ¿A qué edad empezamos?
 
 [¿En primaria?](https://twitter.com/nacho1773/statuses/821663308965117956?tw_i=821663308965117956&tw_e=media&tw_p=archive)
 
@@ -64,14 +74,14 @@ Mi propuesta:
 * Sigue Ritmo (detecta golpes) y baila o hace música acompañando
 * Pinball
 * Hucha cuenta dinero
-* Máquina expendedora (Hucha y expendedor)
-* Belén animatronico
+* Máquina expendedora (Hucha y expendedor) [Máquina de vending](https://www.hackster.io/Sevenmojoe/snacks-vending-machine-powered-by-arduino-f03296)
+* Belén animatrónico
 * Espantapájaros
 * Reproducción de de experimentos físicos (péndulo, caída libre, rampas)
 * Medida de tiempo de reacción (reacción a luces, sonido, tacto,...)
 
 
-### ProyectosCreativos
+### #ProyectosCreativos
 
 @ Alfredo Sánchez Sánchez
 
@@ -187,17 +197,10 @@ I/O: sensores IR, minibombas de aire
 
 @ Julian Caro
 
-1- LEDS Rojos para Expresar furia, si van a hacer un robot social, tiene que tocar la patata en la interacción con la gente, o mejor, leds de colores a modo de ojo que pongan un color u otro según el estado de animo.
+Robot social, LEDS Rojos para Expresar furia, tiene que tocar la patata en la interacción con la gente
 
-2- Necesitarán una goma u algo ademas del peso que haga que sea dificil, si consiguen mediante un servo de continua regular con la goma que sea más o menos dificil, chapó
 
-3- Sí la bola cae rapidamente sin permanecer en las troneras puede que tengan problemas en la detección del color, pero depende del tipo de sensor por supuesto, se puede colocar el sensor de color en otros sitios...
-
-4- Añadale una aplicación más, se me ocurre por ejemplo, que tengan que intentar mantener una bebida fría en verano o caliente en invierno, y la estén monitorizando (podría ser un anuncio de Coca cola, tu bebida siempre fría o cosas así)
-
-5- El siguiente paso es obvio... ¿y si encima vibra? He perdido la cuenta de cuantas veces he ido a buscar el movil porque no lo encontraba, y me ha vibrado en el bolsillo (yo soy así)
-
-6- Este me gusta, añadele que son  máquinas de casino o lo que sea conveniente, cuanto más dificil sea engañar a la máquina, más puntos. Vendran con sistemas electrónicos complicados, pero las soluciones sencillas son las que suelen funcionar
+Máquinas de casino o lo que sea conveniente, cuanto más dificil sea engañar a la máquina, más puntos. Vendran con sistemas electrónicos complicados, pero las soluciones sencillas son las que suelen funcionar
 
 7- Que frene por favor, un amigo de un amigo  de un amigo de un Master de Robótica hizo un robot con motores pololu cuya única función era correr, el diseño fue excelente y el bicho corría MUCHO, tanto que al amigo  de  un amigo de un amigo descubrió demasiado tarde en que no había pensado en un sistema de frenos... una pared y plástico por los aires fue el deselance, cosas que pasan.
 
