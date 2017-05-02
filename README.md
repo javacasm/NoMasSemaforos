@@ -188,7 +188,7 @@ Hucha que detecta la moneda que se introduce y refleja en un display la cantidad
 
 I/O: ocho fines de carrera y un display digital
 
-7) COCHE CONTROLADO MEDIANTE MOVIL
+7) COCHE CONTROLADO MEDIANTE MóVIL
 
 Minicoche que se dirige a través de bluetooth con el móvil.
 
