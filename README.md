@@ -10,7 +10,11 @@
 
 * * *
 
-## ¿Cual es "Hola Mundo" que usas?
+# Si les enseñas un robot querrán hacerlo, enséñales un cohete espacial y no límites sus sueños
+
+![cohete](http://i.imgur.com/ZKyVkrt.gif)
+
+## ¿Cual es "Hola Mundo" que usas con tus alumnos?
 
 ## ¿Sólo tenemos Arduino?
 
