@@ -6,7 +6,7 @@
 
 ## José Antonio Vacas @javacasm
 
-![Licencia CC](./image/Licencia_CC.png)
+![Licencia CC](./images/Licencia_CC.png)
 
 * * *
 
@@ -16,7 +16,7 @@
 
 [ESP8266](https://es.wikipedia.org/wiki/ESP8266), NodeMCU: más baratos, más rápidos, wifi, compatibles.....
 
-### Ejemplo 1:[Guardamos temperaturas en Google Sheet](http://www.whatimade.today/battery-operated-temperature-monitor-logging-data-directly-to-google-sheets-using-esp8266-12-ds18b20-and-deepsleep/)
+### Ejemplo 1: [Guardamos temperaturas en Google Sheet](http://www.whatimade.today/battery-operated-temperature-monitor-logging-data-directly-to-google-sheets-using-esp8266-12-ds18b20-and-deepsleep/)
 
 
 FPGAs: ¿el futuro o el presente?
@@ -27,27 +27,29 @@ FPGAs: ¿el futuro o el presente?
 
 ## ¿Seguimos con los leds?
 
-[Video leds](https://youtu.be/IhMsvI3j6TM)
+[Video con usos creativos con leds](https://youtu.be/IhMsvI3j6TM)
 
-y ya que estamos con artistas....
+Y ya que estamos con artistas....
 
-[Vídeo 1](https://vimeo.com/207176939)
+[Teatro donde se usa Arduino](https://vimeo.com/207176939)
 
-## Diseña en 3D
+## Diseña en 3D: Freecad, Tinkercad
 
-## Conecta con el móvil: AppInventor
+## Conecta con el móvil: AppInventor (haz programas para Android con bloques )
 
 
-## Recicla
+## Recicla: utiliza lo que tienes a tu alcance
+
 * [Bomba con materiales reciclados](https://t.co/f5IgEteVE7)
+* [Otra bomba reciclando](https://t.co/am3v8HZ4GR)
 
-* [Bomba 2](https://t.co/am3v8HZ4GR)
-
-## Reusa, libera tus diseños
+## Reusa lo que encuentres, libera tus diseños
 
 ## ¿A qué edad empezamos?
 
 [¿En primaria?](https://twitter.com/nacho1773/statuses/821663308965117956?tw_i=821663308965117956&tw_e=media&tw_p=archive)
+
+* * *
 
 ### Método
 
@@ -63,7 +65,9 @@ Fases, poco a poco, les guías
 
 #### Hazlo social, comparte, difunde, aprende
 
-## ¡Subamos un poco el nivel!
+# ¡Subamos un poco el nivel!
+
+## Cuando compartimos cosas en las redes, aprendemos
 
 [Primera propuesta](https://plus.google.com/u/0/+JoseAntonioVacasMartinez/posts/bmBKHC8gCn7)
 
@@ -194,16 +198,12 @@ I/O: motores pololu
 
 "Cañero" de refrescos que funciona cuando se acerca el vaso a la máquina
 
+Añáde la pijadita de una APP móvil. Te dice cuantos refrescos de cada tipo te has echado y la cantidad de azúcar que has bebido, cosas así.
 I/O: sensores IR, minibombas de aire
-
 
 @ Julian Caro
 
 Robot social, LEDS Rojos para Expresar furia, tiene que tocar la patata en la interacción con la gente
 
 
-Máquinas de casino o lo que sea conveniente, cuanto más dificil sea engañar a la máquina, más puntos. Vendran con sistemas electrónicos complicados, pero las soluciones sencillas son las que suelen funcionar
-
-7- Que frene por favor, un amigo de un amigo  de un amigo de un Master de Robótica hizo un robot con motores pololu cuya única función era correr, el diseño fue excelente y el bicho corría MUCHO, tanto que al amigo  de  un amigo de un amigo descubrió demasiado tarde en que no había pensado en un sistema de frenos... una pared y plástico por los aires fue el deselance, cosas que pasan.
-
-8-Nada que decir, ese proyecto mola, añádele la pijadita de una APP móvil. Te dice cuantos refrescos de cada tipo te has echado y la cantidad de azucar que has bebido, cosas así.
+Máquinas de casino o lo que sea conveniente, cuanto más difícil sea engañar a la máquina, más puntos. Vendrán con sistemas electrónicos complicados, pero las soluciones sencillas son las que suelen funcionar
