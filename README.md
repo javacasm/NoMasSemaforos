@@ -211,3 +211,17 @@ Robot social, LEDS Rojos para Expresar furia, tiene que tocar la patata en la in
 
 
 Máquinas de casino o lo que sea conveniente, cuanto más difícil sea engañar a la máquina, más puntos. Vendrán con sistemas electrónicos complicados, pero las soluciones sencillas son las que suelen funcionar
+
+## Otros ejemplos
+
+[Zapatillas de balet que detectan los movimientos de la bailarina (e-Traces)](http://cargocollective.com/lesiatrubat/E-TRACES-memories-of-dance )
+
+![e-dance](http://payload318.cargocollective.com/1/6/192144/8674055/e-traces-lesia-trubat-02_800.jpg)
+
+[Máquina de tejer](http://www.varvarag.info/circular-knitic/)
+
+![máquina de tejer](http://www.varvarag.info/wp-content/uploads/2014/12/20150212_160620-1024x576.jpg)
+
+[Control del estado de las plantas](https://www.botanicalls.com/kits/assemble/)
+
+![botanicCalls](https://www.botanicalls.com/graphics/kit/sparkfun/250/IMG_8478_250.jpg)
