@@ -205,6 +205,17 @@ I/O: motores pololu
 Añáde la pijadita de una APP móvil. Te dice cuantos refrescos de cada tipo te has echado y la cantidad de azúcar que has bebido, cosas así.
 I/O: sensores IR, minibombas de aire
 
+9) Máquina con Pinza para coger objetos
+
+[Máquina con pinza](http://www.retrobuiltgames.com/the-build-page/arduino-claw-machine/)
+
+![Máquina con Pinza](https://blog.arduino.cc/wp-content/uploads/2017/05/cache_4102179353.jpg)
+
+10) Dispensador automático de piezas pequeñas
+
+[Vídeo](https://www.youtube.com/watch?v=tdJrCLSapks&feature=youtu.be)
+
+
 @ Julian Caro
 
 Robot social, LEDS Rojos para Expresar furia, tiene que tocar la patata en la interacción con la gente
